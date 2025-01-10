@@ -5,7 +5,7 @@
 This repository contains some API behavior and covered by tests for the `Fetch <https://fetch.com/>`_, `GitHub Account <https://github.com/MyAccForQA/Fetch_API_DecodeJson_TestNG>`_.
 
 
-    .. image:: https://github.com/MyAccForQA/Fetch_API_DecodeJson_TestNG/blob/master/screenshot/README/homepage.png
+    .. image:: https://github.com/MyAccForQA/Fetch_API_DecodeJson_TestNG/blob/main/screenshot/README/homepage.png
         :alt: Fetch
         :width: 30%
         :align: center
